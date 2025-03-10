@@ -48,7 +48,6 @@ Bot, iki farklı modda çalıştırılabilir:
 
 ## ⚠️ Önemli Notlar
 ⚠️ **Discord API**, büyük toplu mesaj gönderimlerinde rate-limit uygulayabilir. Bot, gecikmeleri otomatik olarak yönetir.  
-🔒 Lisans anahtarınızı güvende tutun, aksi takdirde bot çalışmaz!  
 
 ## 👨‍💻 Geliştirici
 Bu proje **Krex** tarafından geliştirilmiştir ve Leaklenmistir. Iyi kullanimlar :]. 🚀
