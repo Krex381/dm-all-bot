@@ -1,0 +1,4 @@
+discord
+pystyle
+requests
+tqdm
